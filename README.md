@@ -175,7 +175,3 @@ In the spirit of the paper's "methodological discipline" framing, two interventi
 The manuscript is under revision and not yet published. A citation entry will be added once a DOI is available. If you use this code in the meantime, please open an issue so the appropriate preprint version can be pointed to.
 
 ---
-
-## License
-
-Code: to be added (likely MIT). Datasets are governed by their original licenses — see each dataset's source page.
